@@ -6,6 +6,8 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color:  #dcdcdc;
+  color: #333;
 }
 
 .header {
@@ -39,4 +41,8 @@ body {
 
 .footer {
   font-weight: 600;
+}
+
+.footer a {
+  color: rgb(165, 34, 252);
 }
